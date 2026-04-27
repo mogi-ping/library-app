@@ -19,5 +19,6 @@
 ## Установка и запуск
 
 1. Скачать проект:
+
 ```bash
-git clone <ссылка>
+git clone https://github.com/mogi-ping/library-app.git
